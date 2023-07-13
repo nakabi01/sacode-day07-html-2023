@@ -1,2 +1,2 @@
-# sacode-day07-html-2023
+# sacode-day08-html-2023
 membuat desain banner
